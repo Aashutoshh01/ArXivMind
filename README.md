@@ -20,7 +20,7 @@ This project offers two modes of operation:
 
 See ArXivMind in action! The demo shows how to use the interactive Streamlit web application to generate a literature review. Click the image below to watch the video.
 
-[![ArXivMind Demo Video](https://drive.google.com/uc?export=view&id=1KwoFdNzR1Btu4lctAwfc98njUsfmLFXU)](https://drive.google.com/file/d/1a-jUNUAIJKwArkmMzJ3POGL7or_IFElM/view?usp=sharing)
+[![ArXivMind Demo Video](https://drive.google.com/uc?export=view&id=1KwoFdNzR1Btu4lctAwfc98njUsfmLFXU)](https://drive.google.com/file/d/1H2PCgE9AdzVANzXuhRfnMMGW6QCNAECT/view?usp=sharing)
 
 ---
 ## 🛠️ Getting Started
